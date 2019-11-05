@@ -1,0 +1,11 @@
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana12\WebApiCRUD\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana12\WebApiCRUD\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana12\WebApiCRUD\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana12\WebApiCRUD\DataAccessLayer\bin\Debug\EntityFramework.dll
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana12\WebApiCRUD\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana12\WebApiCRUD\DataAccessLayer\bin\Debug\EntityFramework.xml
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana12\WebApiCRUD\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana12\WebApiCRUD\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana12\WebApiCRUD\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana12\WebApiCRUD\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana12\WebApiCRUD\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
